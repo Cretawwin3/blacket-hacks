@@ -24,6 +24,6 @@ var check = setInterval(() => {
         i++;
     } else {
         clearInterval(check);
-        alert("Dony buying boxes");
+        alert("Done buying boxes");
     }
 }, 751);
