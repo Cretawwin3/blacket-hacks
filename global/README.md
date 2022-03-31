@@ -4,7 +4,9 @@
 ### A fix for when the page doesnt load on blacket.
 # SpamOpenBoxes.js
 ### Opens boxes extremly quickly.
-# getTokens.js
+<!---
+ # getTokens.js
 ### spam buys the add tokens box
+--->
 # sellDupes.js
 ### sells all duplicate blooks
