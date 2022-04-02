@@ -1,5 +1,6 @@
-# blacket-hacks
+# blacket-hack
 hacks for blacket
+join my discord [here](https://discord.gg/xxBtqPHSjW)
 # blacket socials:
 [site](https://beta.blacket.org/)<br>
 [discord](https://discord.gg/XrVMbR5tJd)<br>
