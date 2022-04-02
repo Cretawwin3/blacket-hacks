@@ -11,6 +11,7 @@ function buyBox() {
     var postData = 'box=' + name;
     $.post('/worker/box/openbox.php', postData, function(data) {
         dataSplit = data.split('|')
+        window.blookUnlocked = dataSplit[0];
         window.blookRarity = dataSplit[1];
         if (blookRarity === "Uncommon") {
             console.log('%c%s', 'color: white; font-size: 25px; text-shadow: 0px 0px 15px lime;', `${blookUnlocked}`);
