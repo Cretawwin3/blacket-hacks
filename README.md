@@ -1,5 +1,5 @@
 # blacket-hack
-hacks for blacket
+hacks for blacket, coded by [zastix](https://github.com/ZasticBradyn)<br>
 join my discord [here](https://discord.gg/xxBtqPHSjW)
 # blacket socials:
 [site](https://beta.blacket.org/)<br>
