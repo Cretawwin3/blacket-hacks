@@ -1,12 +1,12 @@
 async function sell(blook) {
     $.get(`/worker/blook/getuserblook.php?blook=${blook}`, function(data) {
-        amt = Number(data)-1
+        var amt = Number(data)-1
         if (0 >= amt) {
             return;
         }
         var postData = 'blook=' + blook + '&amount=' + amt;
         $.post('/worker/blook/sellblook.php', postData, function(data){
-            console.log("sold")
+            console.log("sold " + amt + blook)
         });
     });
 }
